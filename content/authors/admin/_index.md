@@ -49,10 +49,10 @@ education:
     institution: Jahangirnagar University
   - area: HSC
     institution: Dhaka City College
-      GPA: 5.0/5.0
+      # GPA: 5.0/5.0
   - area: SSC
     institution: BKSP Public School and College
-      GPA: 5.0/5.0
+      # GPA: 5.0/5.0
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
