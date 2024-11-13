@@ -66,11 +66,11 @@ skills:
       - name: HTML, CSS, Bootstrap
         description: ''
         percent: 100
-        icon: chart-bar
+        # icon: chart-bar
       - name: JavaScript, React
         description: ''
         percent: 40
-        icon: circle-stack
+        # icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
