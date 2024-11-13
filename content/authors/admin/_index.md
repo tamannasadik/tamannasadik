@@ -123,6 +123,5 @@ languages:
 # ---
 
 ## About Me
-
-Hello! This is Tamanna. I am a student of Computer Science and Engineering in Jahangirnagar University.
+I am a student of Computer Science and Engineering in Jahangirnagar University.
 I have learnt C, C++, Java, HTML, CSS, Javascript, Bootstrap, React . I am  passionate  to learn new things. I have a love for creating dynamic and responsive websites.
